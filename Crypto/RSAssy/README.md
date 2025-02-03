@@ -1,3 +1,3 @@
 Challenge name:RSAssy
 
-Simple rsa based crypot.
+Simple rsa based crypto.
